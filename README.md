@@ -6,3 +6,4 @@
   3. Customer Management SaaS for Local Bakery Owners
     
 - 🌱 I’m currently learning ...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff-rhie&show_icons=true&theme=radical)
